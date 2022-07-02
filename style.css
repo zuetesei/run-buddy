@@ -78,6 +78,11 @@ section {
     position: relative;
 }
 
+.hero-secondary {
+    background-color: black;
+    color: red;
+}
+
 .hero-form {
     background-color: #fce138;
     padding: 20px;
